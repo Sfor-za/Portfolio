@@ -1,11 +1,14 @@
 body{
     background-color: black;
 }
-.nav-link{
-    color:beige;
-}
 .nav-link:hover{
 color: greenyellow;
+}
+.nav-link{
+    color:rgb(114, 127, 131)
+}
+.active-link{
+    color:beige;
 }
 .navbar-brand{
     margin-top: 10px;
