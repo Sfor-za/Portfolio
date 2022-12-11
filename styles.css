@@ -27,5 +27,12 @@ color: greenyellow;
     font-size: 20px;
     margin-top:6px;
 }
-
-
+.project-card{
+    background-color: rgb(31, 31, 31);
+}
+.card-text{
+    color:white;
+}
+.card-title{
+    color:white;
+}
