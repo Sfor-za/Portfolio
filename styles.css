@@ -7,9 +7,6 @@ color: greenyellow;
 .nav-link{
     color:rgb(114, 127, 131)
 }
-.active-link{
-    color:beige;
-}
 .navbar-brand{
     margin-top: 10px;
 }
@@ -20,8 +17,15 @@ color: greenyellow;
     justify-content: center;
 }
 .nav-items{
-
-    margin:15px;
+    margin:25px;
+}
+.nav-items-active{
+    margin:25px 20px;
+}
+.active-link{
+    color:beige;
+    font-size: 20px;
+    margin-top:6px;
 }
 
 
